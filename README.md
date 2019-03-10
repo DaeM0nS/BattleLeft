@@ -1,2 +1,3 @@
 # BattleLeft
-There is a plugin / sidemod that allow a player to set on a pokémon a limited amount of battle lefts. 
+
+Go check the wiki to have more informations about this Pixelmon Sidemod ! ;D [**Wiki**](https://github.com/DaeM0nS/BattleLeft/wiki)
